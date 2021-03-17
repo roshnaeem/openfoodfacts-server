@@ -18040,7 +18040,7 @@ sv:rypsoljeberedning
 en:colza oil
 bg:рапично олио
 ca:Oli de colza
-de:Kolzaöl, Rapsöl
+de:Kolzaöl
 el:κραμβέλαιο
 es:aceite de colza
 fi:rapsiöljy
@@ -19707,7 +19707,7 @@ hu:etanol
 hy:Էթիլ սպիրտ
 id:Etanol
 is:Etanól
-it:alcol etilico, etanolo, alcool
+it:etanolo
 ja:エタノール
 jv:Etanol
 ka:ეთანოლამიდი
@@ -49500,7 +49500,7 @@ en:Canola
 de:Raps
 es:Canola
 fi:Rypsi
-fr:colza, canola
+fr:canola
 it:Canola
 nl:canola
 pl:Rzepak
